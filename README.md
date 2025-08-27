@@ -17,7 +17,7 @@ Secure3: [rhaydden](https://app.secure3.io/profile/rhaydden)
 
 Hi, I am a Smart Contract Security Researcher interested in integrating and securing both emerging & established blockchain protocols. I audit smart contracts written in Solidity/Vyper for EVM-based chains, Rust for Polkadot/Substrate and CosmWasm, and Go for Cosmos-based protocols. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@rhaydden), [cantina](https://cantina.xyz/u/rhaydden), [sherlock](https://audits.sherlock.xyz/watson/rhaydden), [codehawks](https://profiles.cyfrin.io/u/rhaydden), & [secure3](https://app.secure3.io/profile/rhaydden).
 
-I am currently ranked #65 (2024) on code4rena leaderboards. I am also ranked #119 (all time) accross all [platforms](https://audits.sherlock.xyz/watson/Rhaydden). _(warning: this info can be slightly outdated)_.
+I am currently ranked #43 on Immunefi's [90 days](https://immunefi.com/leaderboard/) leaderboard and #65 (2024) on code4rena leaderboards. I am also ranked #119 (all time) accross all [platforms](https://audits.sherlock.xyz/watson/Rhaydden). _(warning: this info can be slightly outdated)_.
 
 I have completed security audits for 100+ protocols across public competitions and private engagements. 
 ## Organizations
